@@ -97,5 +97,6 @@ public class Main extends Application {
         stage.setMinWidth(300);
         stage.setResizable(false);
         stage.show();
+        System.out.println("Test");
     }
 }
